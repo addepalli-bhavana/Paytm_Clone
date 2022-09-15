@@ -13,12 +13,12 @@
 ### **⌛TIME TAKEN TO COMPLETE THIS PROJECT:** 
 - I have taken 10 hours to complete this project.
 
-### **DEMO OF MY PROJECT:**
+### **👀SCREEN CAPTURE IN LAPTOP SCREEN:**
+![Paytm Clone Screen Capture In Laptop Screen](ScreenCapture-In-Laptop-Screen.png)
 
 
 
-
-### This project is responsive on all screens between 390px to 1440px and above as well.
+### 📱💻📺This project is responsive on all screens between 390px to 1440px and above as well.
 
 
 
